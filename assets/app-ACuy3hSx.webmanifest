@@ -1,0 +1,15 @@
+{
+  "background_color": "#907cc3",
+  "description": "DysPractice",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "./logoApp.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Dyspratice for success",
+  "short_name": "Dyspratice",
+  "start_url": "./index.html"
+}
